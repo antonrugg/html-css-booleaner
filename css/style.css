@@ -13,12 +13,9 @@
     display: block;
 }
 
-#the-booleaner{
-    height: 150px;
+#the-booleaner #logologo{
     width: 150px;
-    background-image: url("../img/logo.svg");
-    background-size: contain;
-    background-repeat: no-repeat;
+    height: 150px;
 }
 
 header > h1{
