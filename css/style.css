@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#logo-header{
+    background-color: hsl(212deg 100% 65%);
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-position: top;
+    height: 15vh;
+}
+
+#the-booleaner{
+    height: 15vh;
+    background-image: url("../img/logo.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+header > h1{
+    margin-top: 1rem;
+}
+
+#signature{
+    font-size: small;
+    font-weight: 700;
+    color: grey;
+}
+
+#author-signature{
+    color: skyblue;
+}
+
+#date-article{
+    font-size: xx-small;
+    line-height: 0.7rem;
+    color: grey;
+    font-weight: 500;
+}
+
