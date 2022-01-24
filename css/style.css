@@ -74,6 +74,10 @@ main{
     margin-top: 25px;
 }
 
+.table-lorem{
+    border-collapse: collapse;
+}
+
 .table-section thead{
     background-color: lightskyblue;
     color: white;
