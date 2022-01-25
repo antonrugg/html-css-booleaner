@@ -80,9 +80,6 @@ main{
     width: 25%;
 }
 
-.cell-50{
-    width: 50%;
-}
 
 .table-lorem{
     border-collapse: collapse;
@@ -128,6 +125,7 @@ main{
     background-repeat: no-repeat;
     margin-bottom: 10px;
 }
+
 
 .footer-image-caption{
     color: white;
